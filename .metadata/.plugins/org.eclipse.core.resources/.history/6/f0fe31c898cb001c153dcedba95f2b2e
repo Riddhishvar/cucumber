@@ -1,0 +1,5 @@
+package com.adactin.properties;
+
+public class Configuration_Reader {
+
+}

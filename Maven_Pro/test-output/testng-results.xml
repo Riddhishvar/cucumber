@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="76" started-at="2022-05-04T09:30:55 IST" finished-at="2022-05-04T09:30:55 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="76" started-at="2022-05-04T09:30:55 IST" finished-at="2022-05-04T09:30:55 IST">
+      <class name="com.Testng.Assert_concept">
+        <test-method status="PASS" signature="demo()[pri:0, instance:com.Testng.Assert_concept@7a187f14]" name="demo" duration-ms="16" started-at="2022-05-04T09:30:55 IST" finished-at="2022-05-04T09:30:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- com.Testng.Assert_concept -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

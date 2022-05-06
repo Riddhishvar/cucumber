@@ -1,0 +1,5 @@
+package com.adactin_runner;
+
+public @interface BeforeClass {
+
+}
